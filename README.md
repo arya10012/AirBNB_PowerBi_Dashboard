@@ -82,7 +82,7 @@ To explore Airbnb listing data and:
 
 ---
 
-## 🤝 Connect with Me
+## 🌐 Connect with Me
 👨‍💻 **Arya Bhor**  
 🔗 [LinkedIn Profile](www.linkedin.com/in/aryabhor1001)  
 💼 [GitHub Portfolio](https://github.com/arya10012)
