@@ -70,7 +70,7 @@ To explore Airbnb listing data and:
 
 ## 📸 Dashboard Preview
 
-![Airbnb Dashboard Screenshot](Airbnb_Dashboard_Screenshot.png)
+![Airbnb Dashboard Screenshot](airbnb_dashboard.png)
 
 ---
 
@@ -84,17 +84,8 @@ To explore Airbnb listing data and:
 
 ## 🤝 Connect with Me
 👨‍💻 **Arya Bhor**  
-🔗 [LinkedIn Profile](#)  
+🔗 [LinkedIn Profile](www.linkedin.com/in/aryabhor1001)  
 💼 [GitHub Portfolio](https://github.com/arya10012)
 
----
 
-## 📢 Notes
-- Dataset is for academic/project use and was obtained from Airbnb's open data initiative
-- All visualizations are for demonstration purposes only and may not represent live Airbnb data
-
----
-
-## ⭐ If you like this project
-Give it a ⭐ on GitHub or connect with me on LinkedIn. Feedback is always welcome!
 
